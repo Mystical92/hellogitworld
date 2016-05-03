@@ -20,3 +20,4 @@ To display results in GitK:
 To start over:
 
     git bisect reset
+HELLO
