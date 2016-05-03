@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ambientideas.</groupId>
   <artifactId>testdebug</artifactId>
-  <packaging>jar</packaging>
+  <packaging>jar</packaging> Tutaj jest żal :D
   <version>1.0-SNAPSHOT</version>
   <name>testdebug</name>
   <url>http://maven.apache.org</url>
